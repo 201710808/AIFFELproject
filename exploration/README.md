@@ -14,7 +14,7 @@
 
 # 참고 링크 및 코드 개선 여부
 
-1. learning rate 변화에 따른 y-test, y-prediction plot의 변화를 확인하면 더 좋은 인사이트를 얻지 않을까요?
+1. x의 feautre 제거 전에 learning rate 변화에 따른 y-test, y-prediction plot을 확인하고, 이후에 제거한 x의 plot도 확인한다면 더 좋은 인사이트를 얻지 않을까요?
 ```python
 import matplotlib.pyplot as plt
 %matplotlib inline 
@@ -25,6 +25,15 @@ for i in range(10):
     plt.xlabel(f'X[{i}]')
     plt.ylabel(f'y')
     plt.show()
+
+"""
+prediction = model(X_test, W, b)
+
+plt.scatter(X_test[:, 0], y_test, label="test")
+plt.scatter(X_test[:, 0], prediction, label="prediction")
+plt.legend()
+plt.show()
+"""
 ```
 
 2. 저는 프로젝트2를 시간상 진행하지 못했는데, 전처리관련해서 꼼꼼하게 잘하신거 같습니다. 저도 같은 방식으로 적용해볼께요!

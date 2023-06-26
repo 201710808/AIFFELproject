@@ -1,4 +1,9 @@
-Going_Deeper/Project/3 Review Reviewer : 최우정
+Going_Deeper/Project/3 
+
+아이펠캠퍼스 온라인4기 피어코드리뷰
+
+코더 : 최지호
+리뷰어 : 최우정
 
 평가문항 1. ResNet-34, ResNet-50 모델 구현이 정상적으로 진행되었는가? 
 [ ] ResNet34의 경우 각 layer에 맞춰 잘 작성하였으며 channel이 바뀔 때마다 shortcut에도 conv2D연산을 한 부분을 한 언급하였습니다. 구현한 모델의 summary가 예상된 형태로 출력되었습니다.

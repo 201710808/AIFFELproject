@@ -1,7 +1,10 @@
 Going_Deeper/Project/3 Review Reviewer : 최우정
 
-평가문항 1. ResNet-34, ResNet-50 모델 구현이 정상적으로 진행되었는가? [ ] ResNet34의 경우 각 layer에 맞춰 잘 작성하였으며 channel이 바뀔 때마다 shortcut에도 conv2D연산을 한 부분을 한 언급하였습니다. 구현한 모델의 summary가 예상된 형태로 출력되었습니다.
+평가문항 1. ResNet-34, ResNet-50 모델 구현이 정상적으로 진행되었는가? 
+[ ] ResNet34의 경우 각 layer에 맞춰 잘 작성하였으며 channel이 바뀔 때마다 shortcut에도 conv2D연산을 한 부분을 한 언급하였습니다. 구현한 모델의 summary가 예상된 형태로 출력되었습니다.
 
-평가문항 2. 구현한 ResNet 모델을 활용하여 Image Classification 모델 훈련이 가능한가? [ ] 데이터셋으로 학습 진행 시 loss가 감소되는 것을 확인 하였습니다.
+평가문항 2. 구현한 ResNet 모델을 활용하여 Image Classification 모델 훈련이 가능한가? 
+[ ] 데이터셋으로 학습 진행 시 loss가 감소되는 것을 확인 하였습니다.
 
-평가문항 3. Ablation Study 결과가 바른 포맷으로 제출되었는가? [ ] ResNet-34, ResNet-50 각각 plain모델과 residual모델을 동일한 epoch만큼 학습시켰을 때의 validation accuracy 기준으로 Ablation Study 결과표가 작성 되었고 마지막 결론 부분도 잘 기재 하였습니다. (훈련이 더 잘 되었다고 판단한 이유는 ResNet이 PlainNet보다 검증손실은 적고 검증 정확도는 더 높았기 때문이라는 점 등)
+평가문항 3. Ablation Study 결과가 바른 포맷으로 제출되었는가? 
+[ ] ResNet-34, ResNet-50 각각 plain모델과 residual모델을 동일한 epoch만큼 학습시켰을 때의 validation accuracy 기준으로 Ablation Study 결과표가 작성 되었고 마지막 결론 부분도 잘 기재 하였습니다. (훈련이 더 잘 되었다고 판단한 이유는 ResNet이 PlainNet보다 검증손실은 적고 검증 정확도는 더 높았기 때문이라는 점 등)

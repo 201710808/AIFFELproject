@@ -33,9 +33,12 @@ def apply_normalize_on_dataset(ds, is_test=False, batch_size=16):
     ds = ds.batch(batch_size)
     ds = ds.prefetch(tf.data.experimental.AUTOTUNE)
     return ds
+```
+
 
 ### Model performance visualization -> 학습결과를 Loss, Accuracy 시각화하여 체크 good!
-![image](![image](https://github.com/201710808/AIFFELproject/assets/127918850/767aebdf-10c9-432a-91a8-5f45ae92f5f5))
+![image](![image](![image](https://github.com/201710808/AIFFELproject/assets/127918850/2240976f-bcb0-4c3c-9566-52351222890c)
+
 
 ### CAM 생성 함수 만들기 (추가 공부) -->
 

@@ -37,7 +37,7 @@ def apply_normalize_on_dataset(ds, is_test=False, batch_size=16):
 
 
 ### Model performance visualization -> 학습결과를 Loss, Accuracy 시각화하여 체크 good!
-![image](![image](https://github.com/201710808/AIFFELproject/assets/127918850/2240976f-bcb0-4c3c-9566-52351222890c)
+![image](https://github.com/201710808/AIFFELproject/assets/127918850/2240976f-bcb0-4c3c-9566-52351222890c)
 
 
 ### CAM 생성 함수 만들기 (추가 공부) -->
@@ -45,7 +45,7 @@ def apply_normalize_on_dataset(ds, is_test=False, batch_size=16):
 ### CAM  시각화
 직접 코드를 분석하며 'np.clip으로 범위를 지정하지 않으면 어떻게 되는지 결과를 살펴보신  점도 좋았습니다. 
 
-![image](![image](![image](https://github.com/201710808/AIFFELproject/assets/127918850/46acac2a-4aa9-4162-a311-01ca0baa4f6d)
+![image](https://github.com/201710808/AIFFELproject/assets/127918850/46acac2a-4aa9-4162-a311-01ca0baa4f6d)
 
 
 

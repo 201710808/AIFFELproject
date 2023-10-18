@@ -23,3 +23,4 @@
 |4|[GO/STOP! - Object Detection 시스템 만들기](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project4/Going_Deeper_12.ipynb)|kitti데이터로 RetinaNet을 학습시키고 object detection을 수행하여 보행자를 발견하면 정지하는 간단한 자율주행 시스템 만들기|
 |5|[도로 영역을 찾자! - 세그멘테이션 모델 만들기](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project5/Going_Deeper_15.ipynb)|직접 구현한 U-Net과 U-Net++의 논문과 깃헙 페이지를 참고하여 직접 U-Net++를 구현하고 kitti 데이터셋을 학습하여 U-Net과 U-Net++의 도로 세그멘테이션 능력 비교하기|
 |6|[직접 만들어보는 OCR](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project6/Going_Deeper_18.ipynb)|MJSynth 데이터셋으로 CRNN을 학습한 뒤, keras OCR의 Detector class를 이용해 이미지 내의 문제 위치를 찾아내어 학습한 모델로 추론 과정 진행하기|
+|7|[멀리 있는 사람도 스티커를 붙여주자](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project7/Going_Deeper_21.ipynb)|SSD모델을 이용해 사진에서 사람 얼굴을 검출하고 스티커를 붙이기|

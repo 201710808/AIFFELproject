@@ -10,7 +10,11 @@
 |6|[뉴스 요약봇 만들기](https://github.com/201710808/AIFFELproject/blob/main/exploration/e12/e12.ipynb)|뉴스 데이터를 어텐션 메커니즘을 이용한 추상적 요약과 Summa를 이용한 추출적 요약 해보기|
 |7|[난 스케치를 할 테니 너는 채색을 하거라](https://github.com/201710808/AIFFELproject/blob/main/exploration/e14/e14.ipynb)|도로주행 데이터에 augmentation을 적용하고 U-Net Generator를 사용해 모델을 학습하여 세그멘테이션 이미지를 입력으로 넣으면 실제 사진과 유사한 이미지를 출력으로 내보내기|
 |8|[트랜스포머로 만드는 대화형 챗봇](https://github.com/201710808/AIFFELproject/blob/main/exploration/e16/e16.ipynb)|한국어 채팅 데이터를 적절히 전처리하고 학습하여 챗봇 만들어보기|
-## Main Quest2
+## Main Quest 2
 |번호|제목|설명|
 |:---:|---|---|
 |&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;|[Chest X-Ray image classification](https://github.com/201710808/AIFFELproject/blob/main/Main_Quest_2/%EC%B5%9C%EC%A7%80%ED%98%B8_Chest%20X-Ray%20image%20classification.ipynb)|캐글 흉부 x-ray 데이터를 적절히 전처리하고 VGG16과 ResNet34를 직접 구현하여 학습한 뒤 결과 비교하기|
+## Going Deeper
+|번호|제목|설명|
+|:---:|---|---|
+|&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;|[프로젝트명](링크)|상세 설명|

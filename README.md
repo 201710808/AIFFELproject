@@ -21,3 +21,4 @@
 |2|[이미지 어디까지 우려볼까?](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project2/Going_Deeper_6.ipynb)|No Augmentation, 기본 Augmentation, 기본 + CutMix, 기본 + Mixup을 적용하여 전처리한 데이터들을 학습시킨 모델들 간의 성능 비교하기|
 |3|[나를 찾아줘 - Class Activation Map 만들기](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project3/Going_Deeper_9.ipynb)|CAM과 Grad-CAM을 이용하여 바운딩 박스를 구하고 비교하기|
 |4|[GO/STOP! - Object Detection 시스템 만들기](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project4/Going_Deeper_12.ipynb)|kitti데이터로 RetinaNet을 학습시키고 object detection을 수행하여 보행자를 발견하면 정지하는 간단한 자율주행 시스템 만들기|
+|5|[도로 영역을 찾자! - 세그멘테이션 모델 만들기](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project5/Going_Deeper_15.ipynb)|직접 구현한 U-Net과 U-Net++의 논문과 깃헙 페이지를 참고하여 직접 U-Net++를 구현하고 kitti 데이터셋을 학습하여 U-Net과 U-Net++의 도로 세그멘테이션 능력 비교하기|

@@ -19,3 +19,4 @@
 |:---:|---|---|
 |&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;|[없다면 어떻게 될까? (ResNet Ablation Study)](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project1/Going_Deeper_3.ipynb)|논문을 읽고 ResNet34와 ResNet50을 직접 구현한 뒤 잔차 연결이 없는 Plain Network를 구성하고 학습 결과를 비교하는 Ablation Study 진행하기|
 |2|[이미지 어디까지 우려볼까?](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project2/Going_Deeper_6.ipynb)|No Augmentation, 기본 Augmentation, 기본 + CutMix, 기본 + Mixup을 적용하여 전처리한 데이터들을 학습시킨 모델들 간의 성능 비교하기|
+|3|[나를 찾아줘 - Class Activation Map 만들기](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project3/Going_Deeper_9.ipynb|CAM과 Grad-CAM을 이용하여 바운딩 박스를 구하고 비교하기|

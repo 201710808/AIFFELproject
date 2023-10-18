@@ -27,4 +27,4 @@
 ## Aiffelthon
 |번호|제목|설명|
 |:---:|---|---|
-|&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;|[Heart Signal Detection](https://github.com/Jaewon-Sa/Heart_Signal_Detection)|circor digiscope phonocardiogram 데이터셋을 신호처리를 이용하여 전처리하고 멜스펙트로그램으로 변환하여 SSD모델을 학습시켜 S1, S2 signal을 탐지하기[발표자료](https://github.com/201710808/AIFFELproject/blob/main/HeartBeat.pdf)|
+|&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;|[Heart Signal Detection](https://github.com/Jaewon-Sa/Heart_Signal_Detection)|circor digiscope phonocardiogram 데이터셋을 신호처리를 이용하여 전처리하고 멜스펙트로그램으로 변환하여 SSD모델을 학습시켜 S1, S2 signal을 탐지하기([발표자료](https://github.com/201710808/AIFFELproject/blob/main/HeartBeat.pdf))|

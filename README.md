@@ -8,3 +8,4 @@
 |4|[영화리뷰 텍스트 감성분석하기](https://github.com/201710808/AIFFELproject/blob/main/exploration/e8/e8.ipynb)|네이버 영화리뷰 데이터를 적절한 전처리를 수행하여 훈련하고 word2vec_ko를 이용하여 성능을 개선해보기|
 |5|[인물사진을 만들어보자](https://github.com/201710808/AIFFELproject/blob/main/exploration/e10/e10.ipynb)|시맨틱 세그멘테이션을 사용하여 사진의 전경과 배경을 분리하고 배경을 블러처리하거나 변경해보기|
 |6|[뉴스 요약봇 만들기](https://github.com/201710808/AIFFELproject/blob/main/exploration/e12/e12.ipynb)|뉴스 데이터를 어텐션 메커니즘을 이용한 추상적 요약과 Summa를 이용한 추출적 요약 해보기|
+|7|[난 스케치를 할 테니 너는 채색을 하거라](https://github.com/201710808/AIFFELproject/blob/main/exploration/e14/e14.ipynb)|도로주행 데이터에 augmentation을 적용하고 U-Net Generator를 사용해 모델을 학습하여 세그멘테이션 이미지를 입력으로 넣으면 실제 사진과 유사한 이미지를 출력으로 내보내기|

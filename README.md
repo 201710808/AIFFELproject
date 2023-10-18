@@ -24,3 +24,7 @@
 |5|[도로 영역을 찾자! - 세그멘테이션 모델 만들기](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project5/Going_Deeper_15.ipynb)|직접 구현한 U-Net과 U-Net++의 논문과 깃헙 페이지를 참고하여 직접 U-Net++를 구현하고 kitti 데이터셋을 학습하여 U-Net과 U-Net++의 도로 세그멘테이션 능력 비교하기|
 |6|[직접 만들어보는 OCR](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project6/Going_Deeper_18.ipynb)|MJSynth 데이터셋으로 CRNN을 학습한 뒤, keras OCR의 Detector class를 이용해 이미지 내의 문제 위치를 찾아내어 학습한 모델로 추론 과정 진행하기|
 |7|[멀리 있는 사람도 스티커를 붙여주자](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project7/Going_Deeper_21.ipynb)|SSD모델을 이용해 사진에서 사람 얼굴을 검출하고 스티커를 붙이기|
+## Aiffelthon
+|번호|제목|설명|
+|:---:|---|---|
+|&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;|[Heart Signal Detection](https://github.com/Jaewon-Sa/Heart_Signal_Detection)|circor digiscope phonocardiogram 데이터셋을 신호처리를 이용하여 전처리하고 멜스펙트로그램으로 변환하여 SSD모델을 학습시켜 S1, S2 signal을 탐지하기|

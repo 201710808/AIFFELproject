@@ -1,4 +1,4 @@
-# AIFFELproject
+# 개인 프로젝트
 ## Exploration
 |번호|제목|설명|
 |:---:|---|---|
@@ -24,6 +24,12 @@
 |5|[도로 영역을 찾자! - 세그멘테이션 모델 만들기](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project5/Going_Deeper_15.ipynb)|직접 구현한 U-Net과 U-Net++의 논문과 깃헙 페이지를 참고하여 직접 U-Net++를 구현하고 kitti 데이터셋을 학습하여 U-Net과 U-Net++의 도로 세그멘테이션 능력 비교하기|
 |6|[직접 만들어보는 OCR](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project6/Going_Deeper_18.ipynb)|MJSynth 데이터셋으로 CRNN을 학습한 뒤, keras OCR의 Detector class를 이용해 이미지 내의 문제 위치를 찾아내어 학습한 모델로 추론 과정 진행하기|
 |7|[멀리 있는 사람도 스티커를 붙여주자](https://github.com/201710808/AIFFELproject/blob/main/Going_Deeper/Project7/Going_Deeper_21.ipynb)|SSD모델을 이용해 사진에서 사람 얼굴을 검출하고 스티커를 붙이기|
+
+# 팀 프로젝트
+## DLThon
+|번호|제목|설명|
+|:---:|---|---|
+|&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;|[Gastrointestinal Image ANAlys Challenges (GIANA)](https://github.com/201710808/AIFFELproject/blob/main/DLThon/%EC%B5%9C%EC%A7%80%ED%98%B8.ipynb)|캐글의 대장 내시경 이미지 데이터를 모델을 조사하여 선정 및 학습하고 최상의 결과를 얻어내기|
 ## Aiffelthon
 |번호|제목|설명|
 |:---:|---|---|
